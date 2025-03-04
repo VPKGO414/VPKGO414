@@ -28,7 +28,7 @@
 ### Hi there 👋, my name is Valentia Puseletso Kgolane
 #### I am a Student at CodeSpace studying Software Development  
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / TypeScript
 
 - 🔭 I’m currently working on My Git Hub Portfolio 
 
